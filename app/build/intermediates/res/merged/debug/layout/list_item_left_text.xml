@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dip"
+        android:src="@drawable/driver"
+         />
+    
+    <Button 
+        android:id="@+id/btn_left_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:layout_marginTop="5dip"
+        android:layout_marginBottom="5dip"
+        android:textColor="#404040"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:clickable="false"
+        android:backgroundTint="#AEEEEE"
+        />
+    <!--android:background="@drawable/chatfrom_bg_normal_9"-->
+
+</RelativeLayout>

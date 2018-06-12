@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    android:background="#48D1CC">
+
+    <!--  <ScrollView
+          android:layout_width="match_parent"
+          android:layout_height="50dp">
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textSize="12dp"
+              android:id="@+id/txtLog" />
+
+      </ScrollView>-->
+
+    <com.baidu.android.voicedemo.MyToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:titleTextColor="#FFFFFF"
+        android:background="#48D1CC"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/chatting_bg_default">
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"/>
+
+        <ListView
+            android:id="@+id/chatView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:divider="@null"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true">
+
+            <com.baidu.android.voicedemo.SiriView
+                android:id="@+id/siriView"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_alignParentBottom="true"
+                android:layout_weight="0.13" />
+
+            <ImageButton
+                android:layout_width="23dp"
+                android:layout_height="40dp"
+                android:background="@drawable/siri"
+                android:id="@+id/btn"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <!-- <Button
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="@string/setting"
+         android:id="@+id/setting"
+         android:layout_alignParentBottom="true" />-->
+
+
+
+
+
+</LinearLayout>

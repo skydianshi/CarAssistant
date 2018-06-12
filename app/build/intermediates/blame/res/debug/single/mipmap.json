@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_location_nor.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_location_nor.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\maintab_toolbar_bg.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\maintab_toolbar_bg.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_home_sel.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_home_sel.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\home_btn_bg.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\home_btn_bg.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_dashboard_sel.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_dashboard_sel.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_location_sel.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_location_sel.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_dashboard_nor.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_dashboard_nor.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\icon_home_nor.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\icon_home_nor.png"
+    },
+    {
+        "merged": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\home_btn_bg1.png",
+        "source": "C:\\skydianshi\\androidStudioWorkspace\\Voicedemos\\CarAssistant\\app\\src\\main\\res\\mipmap\\home_btn_bg1.png"
+    }
+]

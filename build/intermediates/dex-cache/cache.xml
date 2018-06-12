@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_5a40276b3d8c768ba8c755ae29880b4c03383e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_63b91acd6db55f02b777063b6085fbfc42635c75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_afb2cb2a9e02bdbc29180f96eae5b8fffd956bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\gson-2.1_ea4e75040278282c552dbb345f8b3c9305f47c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_294584d29594d4e8da9d9c522bb9696b2507c4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\VoiceRecognition-2.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44148c0546fbd278516c9d243326d309ccaaf7a9">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\VoiceRecognition-2.1.20_2c6a0ae56326e7550d94f4f6a5cb6313578c873a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\gson-2.1_ea4e75040278282c552dbb345f8b3c9305f47c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_332a4fdb5e9ed29682104f8a922d413d3ff9dcec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_63b91acd6db55f02b777063b6085fbfc42635c75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\com.baidu.tts_2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="13821b9782a321df92a623074b28c8aee1f03348">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.3.0_0d43e5a1fab4d6a7d404249c9281331b3f5bec48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\volley_44958fcb414582b42a7f2df742370b60b9f7c46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_379ed332139f3009d7a369890299fc296b394fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\VoiceRecognition-2.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44148c0546fbd278516c9d243326d309ccaaf7a9">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\VoiceRecognition-2.1.20_2c6a0ae56326e7550d94f4f6a5cb6313578c873a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_00e4bd3994ecfbfe2fd7bcba1481219258c11af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_8017510d18e700c7d8bab665ec342df39acf2d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\volley_44958fcb414582b42a7f2df742370b60b9f7c46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e443912c66c944242fdafa77af769e6f5983c466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_379ed332139f3009d7a369890299fc296b394fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_00a84d2a20de483d575a4ce21b38847faacf94a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_be0b3afd365f9d9ab014304dac0e06600527f13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\software\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_eedfd10852cc21bee24dc702e2ec0569b35a19fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\libs\com.baidu.tts_2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13821b9782a321df92a623074b28c8aee1f03348">
+        <dex dex="C:\skydianshi\androidStudioWorkspace\Voicedemos\CarAssistant\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.3.0_0d43e5a1fab4d6a7d404249c9281331b3f5bec48.jar" />
+    </item>
+
+</items>
